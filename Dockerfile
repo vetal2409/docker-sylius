@@ -1,4 +1,4 @@
-FROM vetal2409/php-fpm
+FROM vetal2409/php-fpm:7.1
 
 #####################################
 # Node / NVM:
